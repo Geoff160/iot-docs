@@ -1,8 +1,8 @@
-= Container Support
+= Podman Container Support
 
 Fedora IoT has excellent support for container-focused workflows.
-Containers provide for separation of OS updates from application updates, as well as allow testing and deployment of  different versions of applications.
-Fedora IoT uses podman, a daemonless container engine to develop, download, manage, and run containers to support your home assistant, industrial gateways, or data storage and analytics.
+Containers provide for separation of OS updates from application updates, as well as allow testing and deployment of different versions of applications.
+Fedora IoT uses Podman, a daemonless container engine to develop, download, manage, and run containers to support your home assistant, industrial gateways, or data storage and analytics.
 
 With `podman`, images and containers can be managed and used by a non-privileged user.
 Commands are very similar to those used with `docker`.
